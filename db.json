@@ -7,22 +7,16 @@
       "type2": "Poison",
       "japname": "Fushigibana",
       "evolution": "enusaur evolves from Ivysaur at level 32. It can mega evolve into Mega Venusaur using the Venusaurite.",
-      "image": "https://static.wikia.nocookie.net/pokemon/images/b/b0/003.png",
-      "isbn": 34534181233,
-      "title": "CSS for fun",
-      "condition": "Like New",
-      "published": "Feb 2, 2020",
-      "price": 431,
-      "freeShipping": true
+      "image": "https://static.wikia.nocookie.net/pokemon/images/b/b0/003.png"
     },
     {
       "id": 100002,
-      "isbn": 87934181233,
-      "title": "JavaScript for Developers and More",
-      "condition": "OK",
-      "published": "Mar 3, 2020",
-      "price": 1101,
-      "freeShipping": false
+      "name": "Charizard",
+      "type1": "Fire",
+      "type2": "Flying",
+      "japname": "Lizardon",
+      "evolution": "Charizard evolves from Charmeleon starting at level 36. It is the final form of Charmander.",
+      "image": "https://static.wikia.nocookie.net/pokemon/images/1/18/006.png"
     },
     {
       "id": 100003,
