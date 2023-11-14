@@ -6,7 +6,7 @@
       "type1": "Grass",
       "type2": "Poison",
       "japname": "Fushigibana",
-      "evolution": "enusaur evolves from Ivysaur at level 32. It can mega evolve into Mega Venusaur using the Venusaurite.",
+      "evolution": "Venusaur evolves from Ivysaur at level 32. It can mega evolve into Mega Venusaur using the Venusaurite.",
       "image": "https://static.wikia.nocookie.net/pokemon/images/b/b0/003.png"
     },
     {
@@ -69,7 +69,7 @@
       "type1": "Bug",
       "type2": "Poison",
       "japname": "Morphon",
-      "evolution": "Venomoth is the evolved form of	Venonat as of level 31.",
+      "evolution": "Venomoth is the evolved form of Venonat as of level 31.",
       "image": "https://static.wikia.nocookie.net/pokemon/images/c/c9/049.png"
     },
     {
@@ -85,7 +85,7 @@
       "id": 100010,
       "name": "Jynx",
       "type1": "Ice",
-      "type2": "Phychic",
+      "type2": "Psychic",
       "japname": "Rougela",
       "evolution": "Jynx is the evolved form of Smoochum as of level 30.",
       "image": "https://static.wikia.nocookie.net/pokemon/images/a/a8/124.png"
