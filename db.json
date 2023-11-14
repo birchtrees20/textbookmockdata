@@ -38,15 +38,6 @@
     },
     {
       "id": 100005,
-      "name": "Beedrill",
-      "type1": "Bug",
-      "type2": "Poison",
-      "japname": "Spear",
-      "evolution": "Beedrill is the final evolution of Weedle and evolves from Kakuna at level 10. Beedrill gains a Mega Evolution in Omega Ruby and Alpha Sapphire.",
-      "image": "https://static.wikia.nocookie.net/pokemon/images/5/5e/015.png"
-    },
-    {
-      "id": 100006,
       "name": "Fearow",
       "type1": "Normal",
       "type2": "Flying",
@@ -55,7 +46,7 @@
       "image": "https://static.wikia.nocookie.net/pokemon/images/2/27/022.png"
     },
     {
-      "id": 100007,
+      "id": 100006,
       "name": "Nidoqueen",
       "type1": "Poison",
       "type2": "Ground",
@@ -64,7 +55,7 @@
       "image": "https://static.wikia.nocookie.net/pokemon/images/6/61/031.png"
     },
     {
-      "id": 100008,
+      "id": 100007,
       "name": "Venomoth",
       "type1": "Bug",
       "type2": "Poison",
@@ -73,7 +64,7 @@
       "image": "https://static.wikia.nocookie.net/pokemon/images/c/c9/049.png"
     },
     {
-      "id": 100009,
+      "id": 100008,
       "name": "Wigglytuff",
       "type1": "Normal",
       "type2": "Fairy",
@@ -82,7 +73,7 @@
       "image": "https://static.wikia.nocookie.net/pokemon/images/9/9c/040.png"
     },
     {
-      "id": 100010,
+      "id": 100009,
       "name": "Jynx",
       "type1": "Ice",
       "type2": "Psychic",
