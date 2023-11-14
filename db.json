@@ -2,6 +2,12 @@
   "books": [
     {
       "id": 100001,
+      "name": "Venusaur",
+      "type1": "Grass",
+      "type2": "Poison",
+      "japname": "Fushigibana",
+      "evolution": "enusaur evolves from Ivysaur at level 32. It can mega evolve into Mega Venusaur using the Venusaurite.",
+      "image": "https://static.wikia.nocookie.net/pokemon/images/b/b0/003.png",
       "isbn": 34534181233,
       "title": "CSS for fun",
       "condition": "Like New",
