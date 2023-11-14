@@ -12,7 +12,7 @@
     {
       "id": 100002,
       "isbn": 87934181233,
-      "title": "JavaScript for Developers",
+      "title": "JavaScript for Developers and More",
       "condition": "OK",
       "published": "Mar 3, 2020",
       "price": 110,
@@ -21,7 +21,7 @@
     {
       "id": 100003,
       "isbn": 71934181233,
-      "title": "HTML5",
+      "title": "HTML5 and More",
       "condition": "Like New",
       "published": "April 1, 2020",
       "price": 200,
